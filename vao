@@ -1,0 +1,3 @@
+The variable assignment operator assigns values to variables in a control flow.
+A variable can accept either a fixed value or a variable. In the Properties view of the variable assignment operator,
+you can specify the source of variable values.
